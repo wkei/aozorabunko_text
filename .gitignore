@@ -8,3 +8,6 @@ Gemfile.lock
 aozora_zip/
 aozorabunko/
 vendor/
+
+# macos
+.DS_*
